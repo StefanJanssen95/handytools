@@ -74,3 +74,4 @@ function ConvertFrom-Docker(){
     end {
     }
 }
+export-modulemember -function ConvertFrom-Docker
